@@ -4,3 +4,8 @@ variable "triggers" {
   default     = {}
 }
 
+variable "enabled" {
+  description = "Null resource bypass"
+  type        = bool
+  default     = true
+}
