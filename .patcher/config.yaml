@@ -1,4 +1,4 @@
-- tag: v1.3.0
+- tag: v1.5.0
   patches:
     - slug: "add-abc-input"
       modules_affected:
