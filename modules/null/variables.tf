@@ -9,3 +9,7 @@ variable "enabled" {
   type        = bool
   default     = true
 }
+
+variable "abc" {
+  type = string
+}
