@@ -1,3 +1,4 @@
-- tag: v1.5.0
-  patches:
-    - slug: "add-abc-input"
+versions:
+  - tag: v2.0.0
+    patches:
+      - slug: "add-abc-input"
